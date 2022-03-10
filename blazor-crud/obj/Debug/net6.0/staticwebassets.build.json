@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qnyBhUFZZFAjLBtfS+4qsM+S+YdDM8N0F5/QRZt3eO0=",
+  "Hash": "PhkzG0FNX16i1fklznsnIB84uo2+daR5zjf9f+EMZeI=",
   "Source": "blazor-crud",
   "BasePath": "_content/blazor-crud",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "blazor-crud",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\wwwroot\\",
-      "BasePath": "_content/blazor-crud",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -202,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "blazor-crud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\wwwroot\\",
+      "BasePath": "_content/blazor-crud",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
