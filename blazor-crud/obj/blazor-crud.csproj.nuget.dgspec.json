@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\blazor-crud.csproj": {}
+    "C:\\Users\\Jojo\\Documents\\Programs\\blazor-crud\\blazor-crud\\blazor-crud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\blazor-crud.csproj": {
+    "C:\\Users\\Jojo\\Documents\\Programs\\blazor-crud\\blazor-crud\\blazor-crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\blazor-crud.csproj",
+        "projectUniqueName": "C:\\Users\\Jojo\\Documents\\Programs\\blazor-crud\\blazor-crud\\blazor-crud.csproj",
         "projectName": "blazor-crud",
-        "projectPath": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\blazor-crud.csproj",
-        "packagesPath": "C:\\Users\\K3D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\K3D\\Documents\\Apps\\blazor-crud\\blazor-crud\\obj\\",
+        "projectPath": "C:\\Users\\Jojo\\Documents\\Programs\\blazor-crud\\blazor-crud\\blazor-crud.csproj",
+        "packagesPath": "C:\\Users\\Jojo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jojo\\Documents\\Programs\\blazor-crud\\blazor-crud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\K3D\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jojo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
