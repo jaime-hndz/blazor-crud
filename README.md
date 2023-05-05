@@ -1,3 +1,0 @@
-# blazor-crud
-
-Blazor crud.
